@@ -1,0 +1,27 @@
+{
+  "name": "communication_dbops4notifiermixinlib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with mixins for a Notifier that consumes the Communication DBOps Service",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/communication-libs/dbops4notifiermixin.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "communication",
+    "dbops",
+    "notifier",
+    "mixin",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/communication-libs/dbops4notifiermixin/issues"
+  },
+  "homepage": "https://github.com/communication-libs/dbops4notifiermixin#readme"
+}
